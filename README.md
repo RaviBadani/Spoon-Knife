@@ -22,10 +22,12 @@ This project demonstrates the GitHub Fork and Pull Request workflow.
 Developed as part of Git and GitHub Experiment 9.
 ## Experiment 10 - Merge Conflict
 
-This change was made by another collaborator
-to demonstrate Git conflict resolution.
+This experiment demonstrates Git branching
+and merge conflict resolution.
 
-### Main Branch Update
-- Updated project documentation.
-- Added collaboration information.
-- Modified the Experiment 10 section.
+### Activities
+- Creating branches
+- Updating files
+- Merging branches
+- Resolving merge conflicts
+- Pushing changes to GitHub
